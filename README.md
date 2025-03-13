@@ -4,6 +4,7 @@
 - Pandas
 - Matplotlib
 - Seaborn
+
 Репозиторий содержит:
 
 1. Два CSV файла с данными о пассажирах титаника. Ресурс - https://www.kaggle.com/competitions/titanic/data
